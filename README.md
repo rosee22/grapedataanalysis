@@ -28,4 +28,6 @@ Data cleaning and transformation on grape dataset with hypothesis testing
   
   3.2 Largest and Smallest perimeter	
 
-Refer Grape Data Analysis Project.docx for more details.
+# References 
+
+Grape Data Analysis Project.docx
